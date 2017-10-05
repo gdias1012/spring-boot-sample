@@ -24,3 +24,4 @@ nbdist/
 .nb-gradle/
 
 mvnw*
+.DS_STORE
